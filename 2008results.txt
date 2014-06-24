@@ -1,0 +1,10 @@
+National 1053398 true
+Labour 796880 true
+Green 157613 true
+NZF 147544 false
+Maori 55980 true
+Progressive 21241 true
+ACT 85496 true
+UF 20497 true
+Conservative 59237 false
+Cannabis 11738 false
